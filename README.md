@@ -11,7 +11,7 @@ Use the native `MaterialButtonToggleGroup` API for modern tabbed bars in Titaniu
 ## Example
 
 ```js
-const tabbedBar = require('ti.tabbedBar').createTabbedBar({
+const tabbedBar = require('ti.tabbedbar').createTabbedBar({
   labels: [ 'Option 1', 'Option 2', 'Option 3' ],
   index: 1
 });
